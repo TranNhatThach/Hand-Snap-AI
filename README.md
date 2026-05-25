@@ -1,4 +1,4 @@
-# PrismSnap AI 🌈📸
+# Hand Snap AI 🌈📸
 
 > **AI-Powered Hand-Gesture Camera with Holographic Prism Overlay**
 > A 100% client-side, serverless web application that turns your hands into a dynamic camera lens.
@@ -7,7 +7,7 @@
 
 ## 🌟 Giới thiệu Dự án
 
-**PrismSnap AI** là một ứng dụng Web máy ảnh độc đáo chạy trực tiếp trên trình duyệt của người dùng. Bằng cách sử dụng mô hình trí tuệ nhân tạo **MediaPipe Hands**, ứng dụng tự động nhận diện và vẽ các đường nối nối đầu ngón trỏ và ngón cái của cả hai bàn tay để tạo thành một **khung hình tứ giác** trực quan.
+**Hand Snap AI** là một ứng dụng Web máy ảnh độc đáo chạy trực tiếp trên trình duyệt của người dùng. Bằng cách sử dụng mô hình trí tuệ nhân tạo **MediaPipe Hands**, ứng dụng tự động nhận diện và vẽ các đường nối nối đầu ngón trỏ và ngón cái của cả hai bàn tay để tạo thành một **khung hình tứ giác** trực quan.
 
 Khi người dùng giữ khung hình đứng yên trong **2 giây**, hệ thống sẽ tự động chụp ảnh toàn màn hình bao gồm cả luồng camera trực tiếp, các đường chỉ tay, và lớp phủ **lăng kính sắc màu (Prism Mask)** nghệ thuật ở xung quanh khung chụp.
 
